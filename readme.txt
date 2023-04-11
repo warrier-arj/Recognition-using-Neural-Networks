@@ -16,8 +16,9 @@ The results and analysis for each task can be found in the Jupyter Notebook or P
 Dependencies
 PyTorch
 torchvision
-Credits
-This project was completed by [your name] as part of the CS 5330 course at [your university].
+
+Author:
+Arjun Rajeev Warrier
 
 References
 Nextjournal tutorial on PyTorch MNIST
